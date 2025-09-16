@@ -1,0 +1,14 @@
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.Form1.resources
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.frmKayit.resources
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.Properties.Resources.resources
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\bin\Debug\HastaTakipSistemi.exe.config
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\bin\Debug\HastaTakipSistemi.exe
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\bin\Debug\HastaTakipSistemi.pdb
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.exe
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.pdb
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.exe.config
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.frmAnaSayfa.resources
+C:\Users\Umut\Desktop\HastaTakipSistemi\HastaTakipSistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.frmistatistik.resources
